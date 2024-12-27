@@ -1,0 +1,35 @@
+---
+toc: true
+author: ["Jorge Roa"]
+categories: [Rstudio]
+date: '2022-11-04'
+title: '{{< animate fadeInDown "Kick-Off Event: Hertie Coding Club"delay=.6s >}}'
+subtitle: '{{< animate fadeInDown "Re-Introduction to R"delay=.6s >}}'
+image: kick-boxer.png
+draft: false
+title-block-banner: true
+code-link: true
+include-in-header: meta.html
+filters:
+   - lightbox
+lightbox: 
+  match: auto
+  effect: fade
+  desc-position: left
+  css-class: "lightwidth"
+---
+
+------------------------------------------------------------------------
+
+📍 Hertie School. Forum
+
+🗓 November 04, 2022
+
+------------------------------------------------------------------------
+
+
+**Objective**: Our club's goal is to assist you in developing the coding and programming skills you'll need for your upcoming job, project, or academic inquiry. We are so excited to invite you to our presentation! We'll discuss our club's goals and the dates of our upcoming meetings during this session. You'll also learn about our use of GitHub and Slack, two tools that are necessary for any coding project. We are so excited to meet you at our presentation and start this exciting new journey. Everyone can learn to code, keep that in mind!
+
+![](kick_off.png)
+
+------------------------------------------------------------------------

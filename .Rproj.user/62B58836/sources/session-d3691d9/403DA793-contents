@@ -1,0 +1,16 @@
+format:
+  html:
+    highlight-style: github-dark #change text from code chunks to white. 
+    smooth-scroll: true
+    include-in-header: meta.html
+    theme: 
+          light: spacelab
+          
+    css: styles.css
+    toc: true
+    code-link: true
+    link-external-newwindow: true 
+    citations-hover: true
+    footnotes-hover: true
+editor: visual
+

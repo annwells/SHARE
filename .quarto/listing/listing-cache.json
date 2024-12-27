@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "news/index.qmd": [
+      "*/index.qmd"
+    ],
+    "about_us/hertieclubs.qmd": [
+      "hertieclubs/*/index.qmd"
+    ],
+    "events/index.qmd": [
+      "*/index.qmd"
+    ]
+  }
+}

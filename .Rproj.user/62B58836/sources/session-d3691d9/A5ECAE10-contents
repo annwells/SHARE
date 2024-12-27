@@ -1,0 +1,69 @@
+---
+title: "Resources"
+page-layout: full
+toc: true
+include-in-header: meta.html
+comments: false
+---
+
+<style>
+  body {
+  background: linear-gradient(to right, #27153d, #27153d);
+  color: white !important;
+}
+
+nav#TOC.toc-active h2#toc-title, nav#TOC.toc-active ul{
+color: white;
+}
+
+</style>
+
+# Quarto {style="color: white;"}
+Documentation to create beautiful quarto websites can be found here.
+
+<hr>
+
+- <h4><a href="https://quarto.org/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Quarto</a></h4>
+
+
+#  FAIR Data {style="color: white;"}
+Links to understand how to make data Fair, Accessible, Interoperable, and Reusable can be found here.
+
+<hr>
+
+- <h4><a href="https://www.go-fair.org/fair-principles/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">FAIR Principles</a></h4>
+- <h4><a href="https://www.nature.com/articles/sdata201618" style="color: white; text-decoration: underline;text-decoration-style: dotted;">The FAIR Guiding Principles for scientific data management and stewardship</a></h4>
+
+
+#  Code Repositories {style="color: white;"}
+Making new source code repositories can happen here.
+<hr>
+
+- <h4><a href="https://www.github.com/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Github</a></h4>
+
+
+# Data Repositories {style="color: white;"}
+Making new data repositories can happen here.
+
+<hr>
+
+- <h4><a href="https://figshare.com/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Figshare</a></h4>
+
+
+# Other Open Science Resources {style="color: white;"}
+Additional links and resources to practice open science can be found here
+<hr>
+
+OMERO allows for full transparency of microscopy images.
+
+- <h4><a href="https://www.openmicroscopy.org/omero/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">OMERO</a></h4>
+
+<!-- # Dislcaimer {style="color: white;"} -->
+
+<!-- <hr> -->
+
+<!-- <hr> -->
+
+<!-- All the information on this website - www.sharetheresearch.com - is published in good faith and for general information purpose only. Hertie Coding Club does not make any warranties about the completeness, reliability, and accuracy of this information. Any action you take upon the information you find on this website (www.hertiecodingclub.com), is strictly at your own risk. Hertie Coding Club will not be liable for any losses and/or damages in connection with the use of our website. -->
+
+

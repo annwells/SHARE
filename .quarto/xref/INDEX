@@ -1,0 +1,245 @@
+{
+  "index.qmd": {
+    "index.html": "4ccb92c9"
+  },
+  "about.qmd": {
+    "about.html": "ff2625ed"
+  },
+  "people.qmd": {
+    "people.html": "97f5301e"
+  },
+  "learn/i2ds.qmd": {
+    "i2ds.html": "5b5ee934"
+  },
+  "learn/python/pdf_to_text/index.qmd": {
+    "index.html": "a203d912"
+  },
+  "learn/rstudio/rstudio101/index.qmd": {
+    "index.html": "9251b3f3"
+  },
+  "learn/rstudio/Multithreading/index.qmd": {
+    "index.html": "544a65b0"
+  },
+  "learn/rstudio/objects/index.qmd": {
+    "index.html": "f4ec32e4"
+  },
+  "learn/rstudio/r_shortcuts/index.qmd": {
+    "index.html": "691ebf5c"
+  },
+  "learn/rstudio/social_media_scraping/index.qmd": {
+    "index.html": "98c8b6ec"
+  },
+  "learn/rstudio/Install-r-studio/index.qmd": {
+    "index.html": "54be6ff9"
+  },
+  "learn/rstudio/stata_to_r/index.qmd": {
+    "index.html": "c184d0b6"
+  },
+  "learn/python.qmd": {
+    "python.html": "46b7b4ac"
+  },
+  "learn/I2DS/i2ds2022/index.qmd": {
+    "index.html": "84a0e4c9"
+  },
+  "learn/I2DS/i2ds2021/index.qmd": {
+    "index.html": "a2076ec3"
+  },
+  "learn/rstudio.qmd": {
+    "rstudio.html": "d39bd259"
+  },
+  "404.qmd": {
+    "404.html": "56b6ec0f"
+  },
+  "shiny.qmd": {
+    "shiny.html": "8bc5ec72"
+  },
+  "register/register.qmd": {
+    "register.html": "7310b05b"
+  },
+  "news/index.qmd": {
+    "index.html": "52cfb00a"
+  },
+  "news/welcome_website/index.qmd": {
+    "index.html": "35e22be6"
+  },
+  "coding/index.qmd": {
+    "index.html": "e834c8d1"
+  },
+  "members/statute/statute.qmd": {
+    "statute.html": "4b6cac48"
+  },
+  "members/team/team.qmd": {
+    "team.html": "02042fe1"
+  },
+  "members/team/team/gayatri_shejwal/gayatrishejwal.qmd": {
+    "gayatrishejwal.html": "ca432d02"
+  },
+  "members/team/team/gabriel_zech/gabrielzech.qmd": {
+    "gabrielzech.html": "f59238f5"
+  },
+  "members/team/team/jorgeroa.qmd": {
+    "jorgeroa.html": "bf0763d8"
+  },
+  "members/team/team/david_garibay/davidgaribay.qmd": {
+    "davidgaribay.html": "aee60e96"
+  },
+  "members/team/team/lukas_warode/lukaswarode.qmd": {
+    "lukaswarode.html": "f6b7510d"
+  },
+  "members/team/team/rodrigo_dornelles/rodrigodornelles.qmd": {
+    "rodrigodornelles.html": "560ed962"
+  },
+  "members/team/team/simon_munzert/simonmunzert.qmd": {
+    "simonmunzert.html": "c147ecd7"
+  },
+  "members/team/team/lukas_lehmann/lukaslehmann.qmd": {
+    "lukaslehmann.html": "55042a43"
+  },
+  "members/team/team/jorge_roa/jorgeroa.qmd": {
+    "jorgeroa.html": "1da3ca46"
+  },
+  "members/team/team/valeria_gracia/valeriagracia.qmd": {
+    "valeriagracia.html": "ae6853a1"
+  },
+  "members/team/team/huy_dang/huydang.qmd": {
+    "huydang.html": "195f8e5f"
+  },
+  "members/team/team/carmen_garro/carmengarro.qmd": {
+    "carmengarro.html": "6e3c1b21"
+  },
+  "members/members/members.qmd": {
+    "members.html": "3298cbe3"
+  },
+  "members/staff/staff/ridhima_singh/ridhimasingh.qmd": {
+    "ridhimasingh.html": "b896b03d"
+  },
+  "members/staff/staff/aayran_salman/aayransalman.qmd": {
+    "aayransalman.html": "a27ed00e"
+  },
+  "about_us/hertieclubs/kinoclub/index.qmd": {
+    "index.html": "df390432"
+  },
+  "about_us/index.qmd": {
+    "index.html": "74e16c49"
+  },
+  "about_us/about.qmd": {
+    "about.html": "393cdb56"
+  },
+  "about_us/impressum.qmd": {
+    "impressum.html": "c20c4085"
+  },
+  "about_us/privacy.qmd": {
+    "privacy.html": "31c3a12b"
+  },
+  "about_us/hertieclubs.qmd": {
+    "hertieclubs.html": "0eac4ad0"
+  },
+  "events/index.qmd": {
+    "index.html": "edb8c3d2"
+  },
+  "events/02_wrangle/index.qmd": {
+    "index.html": "6821dd68"
+  },
+  "events/03_wrangle_part2/index.qmd": {
+    "index.html": "57769e2c"
+  },
+  "events/05_social_media_analysis/index.qmd": {
+    "index.html": "2ff6c978"
+  },
+  "events/01_kickoff_event/index.qmd": {
+    "index.html": "fba33333"
+  },
+  "events/04_environment/index.qmd": {
+    "index.html": "117694ab"
+  },
+  "learn.qmd": {
+    "learn.html": "c5bf0f8a"
+  },
+  "material/Resources/kaggle/index.qmd": {
+    "index.html": "23e16105"
+  },
+  "material/Resources/indexp.qmd": {
+    "indexp.html": "0b01354e"
+  },
+  "material/Resources/edx/index.qmd": {
+    "index.html": "1803c91c"
+  },
+  "material/Resources/dataquest/index.qmd": {
+    "index.html": "122791ef"
+  },
+  "material/Books/art_ds/index.qmd": {
+    "index.html": "a88edf37"
+  },
+  "material/Books/python_for_ev/index.qmd": {
+    "index.html": "a13206c9"
+  },
+  "material/Books/data_management/index.qmd": {
+    "index.html": "e1f50f5b"
+  },
+  "material/Books/pipelines_with_r/index.qmd": {
+    "index.html": "c101e4c6"
+  },
+  "material/Books/ggplot2/index.qmd": {
+    "index.html": "1a0d2a2d"
+  },
+  "material/Books/ids_r/index.qmd": {
+    "index.html": "395bc914"
+  },
+  "material/Books/indexp.qmd": {
+    "indexp.html": "2dc37298"
+  },
+  "material/Books/stories_with_data/index.qmd": {
+    "index.html": "d668e4f1"
+  },
+  "material/Books/eda_r/index.qmd": {
+    "index.html": "0395bc35"
+  },
+  "material/Books/webscrapping_r/index.qmd": {
+    "index.html": "950e66de"
+  },
+  "material/Books/r_for_ds/index.qmd": {
+    "index.html": "86473780"
+  },
+  "material/Books/data_vis/index.qmd": {
+    "index.html": "e618f468"
+  },
+  "material/Books/spatial_statistics/index.qmd": {
+    "index.html": "e0b35a4c"
+  },
+  "material/Books/spatial_ds/index.qmd": {
+    "index.html": "11f3b906"
+  },
+  "material/index.qmd": {
+    "index.html": "e103c8c8"
+  },
+  "material/Certifications/google_cert_ds/index.qmd": {
+    "index.html": "c75d8bee"
+  },
+  "material/Certifications/indexp.qmd": {
+    "indexp.html": "4bc395ec"
+  },
+  "material/Certifications/microsoft_ds/index.qmd": {
+    "index.html": "827a0fba"
+  },
+  "material/Certifications/freecodecamp/index.qmd": {
+    "index.html": "7548c418"
+  },
+  "material/Certifications/IBM_data_analyst/index.qmd": {
+    "index.html": "15ddac9f"
+  },
+  "material/Certifications/cisco_pcap/index.qmd": {
+    "index.html": "851d2883"
+  },
+  "members/team/team/ann_wells/annwells.qmd": {
+    "annwells.html": "468bc90a"
+  },
+  "resources/index.qmd": {
+    "index.html": "7acfefd3"
+  },
+  "about_us/what_is_share.qmd": {
+    "what_is_share.html": "8336b8ff"
+  },
+  "about_us/why_share.qmd": {
+    "why_share.html": "ffdfa862"
+  }
+}
