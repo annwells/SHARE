@@ -38,7 +38,7 @@ comments: false
     @grid: 100x1 / 100%;
 
     :container {
-      perspective: 23vmin;
+      perspective: 13vmin;
     }
     background: @m(
       @r(200, 240), 
