@@ -55,11 +55,9 @@ comments: false
       <h1>
 <script src="https://cdn.lordicon.com/lordicon.js"></script>
 <lord-icon
-    src="https://cdn.lordicon.com/nzwkwnsr.json"
-    trigger="in"
-    delay="1500"
-    state="in-reveal"
-    colors="primary:#f4b69c,secondary:#f24c00,tertiary:#c69cf4,quaternary:#911710,quinary:#4bb3fd,senary:#913710,septenary:#ebe6ef"
+    src="https://cdn.lordicon.com/adkvatxi.json"
+    trigger="loop"
+    colors="primary:#d1faf0,secondary:#e8308c,tertiary:#4bb3fd"
     style="width:80px;height:80px">
 </lord-icon>
         Current Practices
@@ -94,11 +92,9 @@ Current practices are centered around creating workflows and pipelines to proces
       <h1>
 <script src="https://cdn.lordicon.com/lordicon.js"></script>
 <lord-icon
-    src="https://cdn.lordicon.com/uqztelgy.json"
-    trigger="in"
-    delay="1500"
-    state="in-reveal"
-    colors="primary:#d1faf0,secondary:#1663c7,tertiary:#e8308c"
+    src="https://cdn.lordicon.com/pqtydyyh.json"
+    trigger="loop"
+    colors="primary:#4bb3fd,secondary:#913710,tertiary:#e8308c,quaternary:#d1faf0"
     style="width:80px;height:80px">
 </lord-icon>
         Why SHARE?

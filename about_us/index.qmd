@@ -5,14 +5,18 @@ toc: true
 include-in-header: meta.html
 comments: false
 ---
+
 ::: header_about
-<h1 style="color: black;">About Us</h1>
+<h1 style="color: black;">
+
+About Us
+
+</h1>
 :::
 
-::::::::::::::: containerabout
-:::::::::::::: about
-::::::::::::: left
-```{=HTML}
+:::::::::::::::: containerabout
+::::::::::::::: about
+:::::::::::::: left
 <h1><script src="https://cdn.lordicon.com/lordicon.js"></script>
 <lord-icon
     src="https://cdn.lordicon.com/apnaokeo.json"
@@ -34,7 +38,6 @@ The Scientific Hub for Accessible Research and Exploration (SHARE) is a platform
 </br>
 
 </div>
-```
 
 ::: right
 <img src="images/AdobeStock_ourstory.png"/>
@@ -189,7 +192,6 @@ the Hertie Coding Club, we think that everyone can learn how to code. We want th
 <!-- </center> -->
 
 <!-- </div> -->
-
 ```
 
 ```{=html}
@@ -237,7 +239,6 @@ the Hertie Coding Club, we think that everyone can learn how to code. We want th
   
 </script>
 
-
 ```
 
 <hr class="sep-2-f" style="margin-top: 100px;"/>
@@ -258,19 +259,17 @@ the Hertie Coding Club, we think that everyone can learn how to code. We want th
 ::::::
 :::::::
 
-::::: {.container-footer3 style="margin-bottom: -100px; height:200px;"}
-:::: layout_footer
+:::::: {.container-footer3 style="margin-bottom: -100px; height:200px;"}
+::::: layout_footer
 This website, the content and everything related to it is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"> Creative Commons Attribution-NonCommercial 4.0 International License.</a>
 
+:::: cc-icons-row
 ::: cc-icons-row
-<div class="cc-icons-row">
-  <img src="_site/images/cc/cc.svg" alt="CC" class="cc-icon">
-  <img src="_site/images/cc/by.svg" alt="BY" class="cc-icon">
-  <img src="_site/images/cc/nc.svg" alt="NC" class="cc-icon">
-  <img src="_site/images/cc/nd.svg" alt="ND" class="cc-icon">
-</div>
+<img src="_site/images/cc/cc.svg" alt="CC" class="cc-icon"/> <img src="_site/images/cc/by.svg" alt="BY" class="cc-icon"/> <img src="_site/images/cc/nc.svg" alt="NC" class="cc-icon"/> <img src="_site/images/cc/nd.svg" alt="ND" class="cc-icon"/>
 :::
 ::::
 :::::
-
-
+::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
