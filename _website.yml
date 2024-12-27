@@ -5,9 +5,9 @@ website:
     palette: dark
  #   policy-url: www.hertiecodingclub.com
  #   prefs-text: "text"
-  google-analytics: ""
+  google-analytics: "G-BBVB5SXEBW"
   title: ""
-  site-url: https://www.sharetheresearch.com/
+  site-url: https://sharetheresearch.netlify.app/
   #favicon: images/hcc.png
   page-footer:
     left: 

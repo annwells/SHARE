@@ -66,25 +66,4 @@ OMERO allows for full transparency of microscopy images.
 
 <!-- All the information on this website - www.sharetheresearch.com - is published in good faith and for general information purpose only. Hertie Coding Club does not make any warranties about the completeness, reliability, and accuracy of this information. Any action you take upon the information you find on this website (www.hertiecodingclub.com), is strictly at your own risk. Hertie Coding Club will not be liable for any losses and/or damages in connection with the use of our website. -->
 
-<div class="container-footer3">
 
-
-<div class="layout_footer">
-
-
-
-This website, the content and everything related to it is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"> Creative Commons Attribution-NonCommercial 4.0 International License.</a>
-   <a href="https://lordicon.com/">Icons by Lordicon.com</a>
-  
-  <!-- href="https://www.hertiecodingclub.com/about_us/privacy" target="_blank" style="font-size: 13px;"> <i class="fas fa-shield-alt"></i> Privacy Policy </a> | <a href="https://www.hertiecodingclub.com/about_us/impressum" target="_blank" style="font-size: 13px;"> <i class="fas fa-file-alt"></i> Impressum </a> |  -->
-  
-  <div class="cc-icons-row">
-  <img src="_site/images/cc/cc.svg" alt="CC" class="cc-icon">
-  <img src="_site/images/cc/by.svg" alt="BY" class="cc-icon">
-  <img src="_site/images/cc/nc.svg" alt="NC" class="cc-icon">
-  <img src="_site/images/cc/nd.svg" alt="ND" class="cc-icon">
-  
-
- </div> 
-</div>
-</div>

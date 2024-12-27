@@ -203,7 +203,7 @@ comments: false
  </div>
 <div class="tile"> 
   <img src='images/home_sections/AdobeStock_about_us.png'/>
-     <a href="../members/team/team.html">
+     <a href="../about_us/index.html">
   <div class="text">
   <!-- <h1>About us</h1> -->
   <p class="animate-text"> Who we are and why we believe in open science. </p>

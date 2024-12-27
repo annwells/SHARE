@@ -1,1 +1,1 @@
-Sitemap: https://www.sharetheresearch.com/sitemap.xml
+Sitemap: https://sharetheresearch.netlify.app/sitemap.xml
