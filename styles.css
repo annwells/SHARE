@@ -468,7 +468,7 @@ header:not(.headroom):not(.quarto-title-block).is-visible {
 }
 
 .image img {
-  width: 1000px;
+  width: 100%;
   display: block;
   height: auto;
   animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
