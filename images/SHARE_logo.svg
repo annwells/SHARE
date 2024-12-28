@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.70466863"
-     inkscape:cx="1347.4418"
-     inkscape:cy="372.51552"
+     inkscape:cx="220.6711"
+     inkscape:cy="429.27979"
      inkscape:window-width="1424"
      inkscape:window-height="700"
      inkscape:window-x="0"
@@ -139,12 +139,20 @@
          id="tspan81"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Chalkduster;-inkscape-font-specification:Chalkduster;fill:#a3e4d7;fill-opacity:1;stroke-width:2"
          x="88.986862"
-         y="150.93973">SHARE</tspan></text>
+         y="150.93973">S<tspan
+   style="fill:#3080e8;fill-opacity:1"
+   id="tspan13">H</tspan><tspan
+   style="fill:#911710;fill-opacity:1"
+   id="tspan14">A</tspan><tspan
+   style="fill:#f9c9c0;fill-opacity:1"
+   id="tspan15">R</tspan><tspan
+   style="fill:#f28ba8;fill-opacity:1"
+   id="tspan16">E</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text82"
-       style="fill:#a3e4d7;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;font-size:37.33333333px;-inkscape-font-specification:Chalkduster;font-family:Chalkduster;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:7.55905512;stroke-dasharray:none;paint-order:fill markers stroke;stroke-miterlimit:3.4;stroke-linejoin:round;stroke-dashoffset:0;white-space:pre;shape-inside:url(#rect82)" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:Chalkduster;-inkscape-font-specification:Chalkduster;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect82);display:inline;fill:#a3e4d7;fill-opacity:1;stroke:none;stroke-width:7.55906;stroke-linejoin:round;stroke-miterlimit:3.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:7.05556px;font-family:Chalkduster;-inkscape-font-specification:'Chalkduster Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#27153d;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
