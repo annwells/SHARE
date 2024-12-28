@@ -1,15 +1,15 @@
 {
     "dialog-state": {
-        "query": "2024 HCC",
+        "query": "hertiecodingclub",
         "path": "",
         "regex": false,
         "caseSensitive": false,
         "wholeWord": false,
         "filePatterns": [],
-        "useGitGrep": false,
+        "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 1,
+        "resultsCount": 21,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true

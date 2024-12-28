@@ -20,6 +20,8 @@ about:
       url: "https://www.github.com/annwells"
     - text: "{{< fa laptop >}} Personal Website"
       url: "https://www.ann-wells.netlify.app"
+    - text: "{{< fa brands orcid >}} ORCID"
+      url: "https://orcid.org/0000-0002-9720-0038"
     - text: "{{< fa file >}} CV"
       href: "members/team/team/ann-wells/CV-Ann-2024.pdf"
 comments: false
