@@ -21,7 +21,7 @@ about:
     - text: "{{< fa laptop >}} Personal Website"
       url: "https://www.ann-wells.netlify.app"
     - text: "{{< fa file >}} CV"
-      href: "members/team/team/ann-wells/CV-Ann-2024.pdf"
+      href: "https://annwellsphd.com/CV-Ann-2024.pdf"
     - text: "{{< fa brands linkedin >}} LinkedIn"
       url: "https://www.linkedin.com/in/annwellsphd/"
 comments: false
