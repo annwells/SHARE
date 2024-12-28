@@ -19,7 +19,7 @@ about:
     - text: "{{< fa brands orcid >}} ORCID"
       url: "https://orcid.org/0000-0002-9720-0038"
     - text: "{{< fa laptop >}} Personal Website"
-      url: "https://www.ann-wells.netlify.app"
+      url: "https://www.annwellsphd.com"
     - text: "{{< fa file >}} CV"
       href: "https://annwellsphd.com/CV-Ann-2024.pdf"
     - text: "{{< fa brands linkedin >}} LinkedIn"
