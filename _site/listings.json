@@ -1,15 +1,5 @@
 [
   {
-    "listing": "/events/index.html",
-    "items": [
-      "/events/05_social_media_analysis/index.html",
-      "/events/04_environment/index.html",
-      "/events/03_wrangle_part2/index.html",
-      "/events/02_wrangle/index.html",
-      "/events/01_kickoff_event/index.html"
-    ]
-  },
-  {
     "listing": "/news/index.html",
     "items": [
       "/news/welcome_website/index.html"

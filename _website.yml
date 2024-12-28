@@ -7,7 +7,7 @@ website:
  #   prefs-text: "text"
   google-analytics: "G-39XDHM1GWG"
   title: ""
-  site-url: https://sharetheresearch.netlify.app/
+  site-url: https://sharetheresearch.org/
   #favicon: images/hcc.png
   page-footer:
     left: 
@@ -34,7 +34,7 @@ website:
     pinned: true
     right:
       - id: howto
-        icon: house-fill
+        #icon: house-fill
         href: index.qmd
         text: "Home"
       #- text: "{{< fa solid people-group >}} Members"
@@ -58,15 +58,15 @@ website:
       #- icon: fingerprint  
       #  href: register/register.qmd
       #  text: "Register"
-      - text: "{{< fa solid people-group >}} About us"
+      - text: "About us" #{{< fa solid people-group >}} 
         menu:
-          - text: "{{< fa solid school-flag >}} About us"
+          - text: "About us" #{{< fa solid school-flag >}}
             href: about_us/index.qmd
-          - text: "{{< fa solid school-flag >}} Why SHARE?"
+          - text: "Why SHARE?" #{{< fa solid school-flag >}} 
             href: about_us/why_share.qmd
-          - text: "{{< fa solid person-chalkboard >}} Team"
+          - text: "Team" #{{< fa solid person-chalkboard >}} 
             href: members/team/team.qmd
-      - text: "{{< fa regular newspaper >}} Resources"
+      - text: "Resources" #{{< fa regular newspaper >}} 
         href: resources/index.qmd
        
      

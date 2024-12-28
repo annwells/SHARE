@@ -7,20 +7,6 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "events/01_kickoff_event/index.html",
-    "href": "events/01_kickoff_event/index.html",
-    "title": "Kick-Off Event: Hertie Coding Club",
-    "section": "",
-    "text": "📍 Hertie School. Forum\n🗓 November 04, 2022\n\nObjective: Our club’s goal is to assist you in developing the coding and programming skills you’ll need for your upcoming job, project, or academic inquiry. We are so excited to invite you to our presentation! We’ll discuss our club’s goals and the dates of our upcoming meetings during this session. You’ll also learn about our use of GitHub and Slack, two tools that are necessary for any coding project. We are so excited to meet you at our presentation and start this exciting new journey. Everyone can learn to code, keep that in mind!"
-  },
-  {
-    "objectID": "events/03_wrangle_part2/index.html",
-    "href": "events/03_wrangle_part2/index.html",
-    "title": "Meet Up III: Wrangle dataframes",
-    "section": "",
-    "text": "📍 Hertie School. Seminar Room 2.61\n🗓 14:00 - 16:00 hrs, November 24, 2022\n\nObjective: We will go over the fundamentals of data wrangling in R. We will continue exploring methods for cleaning, transforming, and manipulating data using the dplyr package. We’ll discuss data operations like filtering, sorting, joining, and summing up. Participants will leave the session with a firm grasp on the fundamentals of data manipulation in R, which will serve as a solid foundation for further exploration and experimentation with this potent language."
-  },
-  {
     "objectID": "about_us/privacy.html",
     "href": "about_us/privacy.html",
     "title": "Hertie Coding Club Privacy Policy",
@@ -110,26 +96,5 @@
     "title": "Hertie School Clubs",
     "section": "Hertie School Clubs",
     "text": "Hertie School Clubs"
-  },
-  {
-    "objectID": "events/02_wrangle/index.html",
-    "href": "events/02_wrangle/index.html",
-    "title": "Meet Up III: Wrangle dataframes",
-    "section": "",
-    "text": "📍 Hertie School. Seminar Room 2.61\n🗓 November 18, 2022\n\nObjective: We will go over the fundamentals of data wrangling in R. We will create our first repo with GitHub and understand why using Git is important in the Data Science world. Also, we will move on to exploring methods for cleaning, transforming, and manipulating data using the dplyr package. We’ll discuss data operations like filtering, sorting, joining, and summing up. Participants will leave the session with a firm grasp on the fundamentals of data manipulation in R, which will serve as a solid foundation for further exploration and experimentation with this potent language."
-  },
-  {
-    "objectID": "events/05_social_media_analysis/index.html",
-    "href": "events/05_social_media_analysis/index.html",
-    "title": "Social Media Scraping",
-    "section": "",
-    "text": "📍 Hertie School. Seminar Room 1.61\n🗓 14:00 hrs, March 17, 2023\n\nObjective: An introduction to social media analysis! We’ll be scraping tweets from Twitter using the rtweet package, cleaning data, and using it to produce a variety of insightful visualizations. This session will provide you with some of the skills necessary to do social media research on your own, whether for a class, internship, or personal interest."
-  },
-  {
-    "objectID": "events/04_environment/index.html",
-    "href": "events/04_environment/index.html",
-    "title": "Setting up your environment in Python",
-    "section": "",
-    "text": "📍 Hertie School. Seminar Room 2.34\n🗓 13:00 hrs, February 24, 2023\n\nObjective: The main learning outcome is for you to know how to set up reproducible and shareable environments for Python projects, understand how to effectively switch between environments when using an IDE and how to work more efficiently with IDEs, including how to use jupyter code cells within a .py script (a personal favourite of mine). The workshop will focus on Pipenv (the environment and packaging tool officially recommended by the Python developer community) and VSCode (a very customizable and efficient IDE). Nevertheless, the ideas and workflows covered here also apply for other tools (like Anaconda or venv, Sypder or Pycharm)."
   }
 ]
