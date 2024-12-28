@@ -2,7 +2,7 @@
 title: "Ann Wells"
 subtitle: "Founder of SHARE"
 page-layout: full
-image: annwells.JPG
+image: annwells.jpg
 filters:
    - lightbox
 lightbox: 
