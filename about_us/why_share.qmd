@@ -259,7 +259,7 @@ document.addEventListener('DOMContentLoaded', function () {
   for (var i = 0; i < images.length; i++) {
     images[i].addEventListener('mouseup', function (event) {
       var url = event.target.getAttribute('data-url');
-      window.open(url, '');
+      window.open(url, '_blank');
     });
   }
 });
