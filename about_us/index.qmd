@@ -31,7 +31,7 @@ What is SHARE?
 
 <p style="text-align: justify;">
 
-The Scientific Hub for Accessible Research and Exploration (SHARE) is a platform that enables researchers to share their data, data analysis, and code in a transparent and reproducible way. SHARE creates data resources that allow for data reuse using the raw files, processed data, or data analysis performed by the initial researcher. SHARE enables researchers with or without coding experience the ability to interact and utilize data from research projects. Furthermore, the data resources created can complement current supplemental data published with journal articles. In some cases, the data resource can replace supplemental data creating a more comprehensive companion to the current publishing model.
+The Scientific Hub for Accessible Research and Exploration (SHARE) is a platform that enables researchers to share their data, data analysis, and code in a transparent and reproducible way. SHARE creates web-based data exploration hubs that allow for data reuse using the raw files, processed data, or data analysis performed by the initial researcher. SHARE enables researchers with or without coding experience the ability to interact and utilize data from research projects. Furthermore, the exploration hubs produced from SHARE can complement current supplemental data published with journal articles. In some cases, the exploration hub can replace supplemental data creating a more comprehensive companion to the current publishing model.
 
 </p>
 
@@ -71,7 +71,7 @@ The Scientific Hub for Accessible Research and Exploration (SHARE) is a platform
       </h1>
       <hr>
 <p style = "text-align: justify;">
-SHARE was envisioned in June 2024 after developing a web-based exploration platform that used a singular location to access aspects of research output stored in GitHub, Figshare, Quarto, and Shiny. Creating a website where individuals could go to access source code, processed data, transparent and reproducible data analysis, and shiny apps allowed for non-coding and coding biologists to peruse the project results intuitively and interact with any aspect of the research analysis. The goal of these platforms was to:
+SHARE was envisioned in June 2024 after developing a web-based data exploration hub that uses a unique URL to access aspects of research output stored in GitHub, Figshare, Quarto, and Shiny. Creating a website where individuals go to access source code, processed data, transparent and reproducible data analysis, and shiny apps allows for non-coding and coding biologists to peruse the project results intuitively and interact with any aspect of the research analysis. The goals of these exploration hubs are to:
 </p>
 
 <ul style = "margin-left:60px;" style = "text-align: justify;">
@@ -85,7 +85,7 @@ SHARE was envisioned in June 2024 after developing a web-based exploration platf
 </p>
 
 <p style = "text-align: justify;">
-Our goal is to bring this platform to the masses for wide adpotion and reenvision what is means to disseminate research output. Complete transparency and publishing all data analysis will not only foster collaboration but will enable the scientific community to make discoveries that have been hampered by our current mode of operation. At SHARE we believe that open science means sharing data and data analysis and that everyone, regardless of computational proficiency should have equal access to data reuse.
+Our goal is to bring SHARE to the masses for wide adpotion and reenvision what is means to disseminate research output. Complete transparency and publishing all data analysis will not only foster collaboration but will enable the scientific community to make discoveries that have been hampered by our current mode of operation. At SHARE we believe that open science means sharing data and data analysis and that everyone, regardless of computational proficiency should have equal access to data reuse.
 </p>
 
     </div>

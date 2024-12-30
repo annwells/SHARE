@@ -76,7 +76,7 @@ Biological research is becoming increasingly data driven due to:
 </ul>
 
 <p style = "text-align: justify;">
-Current practices are centered around creating workflows and pipelines to process data for quality control and normalization, which are often not reproducible or transparent. Downstream analysis of processed data is then analyzed across multiple coding scripts and results are scattered across plots and tables that have no distinct order. Furthermore, most of this "behind the scenes" process is not published for others to see or use. Instead results are typically condensed into a final journal article that is then published.
+Current practices are centered around creating workflows and pipelines to process data for quality control and normalization, which are often not reproducible or transparent. Downstream analysis of processed data is then analyzed across multiple coding scripts and results are scattered across plots and tables that have no distinct order. Furthermore, most of this "behind the scenes" process is not published for other researchers to see or use. Instead results are typically condensed into a final journal article that is then published.
 </p>
 
     </div>
