@@ -101,7 +101,7 @@ Current practices are centered around creating workflows and pipelines to proces
       </h1>
       <hr>
       <p style="text-align: justify;">
-      Scientific Hub for Accessible Research and Exploration (SHARE) creates a one-stop shop to access code, data, data analysis with interactive and downloadable plots and tables, as well as anything else a researcher wants to link to a research project. SHARE makes it easy for researchers to adopt open science practices, guides them through the steps and brings the various repository sites for code and data, such as GitHub and Figshare "in-house", making it easier for researchers to set up and link individual open science practices into their data science workflow.
+      Scientific Hub for Accessible Research and Exploration (SHARE) creates a one-stop shop to access code, data, data analysis with interactive and downloadable plots and tables, as well as anything else a researcher wants to link to a research project, such as a Shiny app. SHARE makes it easy for researchers to adopt open science practices, guides them through the steps and brings the various repository sites for code and data, such as GitHub and Figshare "in-house", making it easier for researchers to set up and link individual open science practices into their data science workflow.
       </p>
       
     </div>
